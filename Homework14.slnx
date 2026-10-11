@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Task1_Singleton/Task1_Singleton.csproj" />
+  <Project Path="Task2_FactoryMethod/Task2_FactoryMethod.csproj" />
+  <Project Path="Task3_Builder/Task3_Builder.csproj" />
+  <Project Path="Task4_Adapter/Task4_Adapter.csproj" />
+</Solution>
